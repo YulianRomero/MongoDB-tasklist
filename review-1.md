@@ -1,3 +1,5 @@
+Nombre Desarrollador Yulian Ferley Rodriguez
+*Descripcion de mi producto
 Nombre del Producto: ListaTask 
 
 Descripción:
